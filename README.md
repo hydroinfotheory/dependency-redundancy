@@ -2,7 +2,9 @@
 Code for the example of the WRR paper:
 
 Dependency and redundancy: how information theory untangles three variable interactions in environmental data
+
 By Steven V, Weijs, Akhil Kumar, and Hossein Foroozand
+
 Submitted to Water Resources Research, 2018
 
 This file is provided to further explore the example, which is a difficult
