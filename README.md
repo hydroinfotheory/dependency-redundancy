@@ -31,7 +31,9 @@ Note1: , this code is relating to the paper:
 Goodwell, A. E., & Kumar, P. (2017a). 
 Temporal information partitioning: Characterizing synergy, uniqueness, and redundancy in interacting environmental variables. 
 Water Resources Research, 53(7), 5920–5942. doi:10.1002/2016WR020216
-Note2: the only functions used from the TIPNets toolbox by Goodwell and Kumar are : 
+Note2: the only functions used from the TIPNets toolbox by Goodwell and Kumar are:
+compute_pdf_fixedbins.m and compute_info_measures.m.
+
 These can be found under the follwing direct links:
 
 https://github.com/HydroComplexity/TIPNet/blob/master/TIPNet_v2/Functions/compute_pdf_fixedbins.m
