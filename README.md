@@ -33,5 +33,7 @@ Temporal information partitioning: Characterizing synergy, uniqueness, and redun
 Water Resources Research, 53(7), 5920–5942. doi:10.1002/2016WR020216
 Note2: the only functions used from the TIPNets toolbox by Goodwell and Kumar are : 
 These can be found under the follwing direct links:
+
 https://github.com/HydroComplexity/TIPNet/blob/master/TIPNet_v2/Functions/compute_pdf_fixedbins.m
+
 https://github.com/HydroComplexity/TIPNet/blob/master/TIPNet_v2/Functions/compute_info_measures.m
